@@ -1,0 +1,42 @@
+body {
+    font-family: 'Lora', 'Times New Roman', serif;
+    width: 180px;
+    background-color: #DEE2E6
+  }
+  
+  
+  p a {
+    text-decoration: underline;
+  }
+  h1,
+  h2,
+  h3,
+  
+  h5,
+  h6 {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  
+    color: #6C757C;
+  }
+  h4{
+    color: #464748;
+  }
+  
+  .title {
+    width: fit-content;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+  }
+  input[type=text]:focus {
+    background-color: #DEE2E6
+  }
+  input[type=button], input[type=submit], input[type=reset] {
+    background-color:#52D681; ;
+    border: none;
+    color: white;
+    
+    
+    margin: 2px 1px;
+    
+  }
